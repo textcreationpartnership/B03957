@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The key of true policy, or, A free dispute concerning the conservation of lately-obtained liberty. In reference to the Parliament of England, not onely for securing liberty already obtained, but also for enlarging the same. / By a Scottish man, a cordiall well-wisher of the just freedom, and true interest of the people.</title>
+         </titleStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03957</idno><idno type="EEBO-CITATION">53981671</idno>
+  <idno type="VID">180265</idno>
+  <idno type="EEBO-PROQUEST">2248548038</idno>
+  
+            <idno type="STC">Wing K384B</idno>
+            <idno type="STC">ESTC R179215</idno>
+            <idno type="OCLC">53981671</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B03957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180265)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2824:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The key of true policy, or, A free dispute concerning the conservation of lately-obtained liberty. In reference to the Parliament of England, not onely for securing liberty already obtained, but also for enlarging the same. / By a Scottish man, a cordiall well-wisher of the just freedom, and true interest of the people.</title>
+               </titleStmt>
+               <extent>16+ p.   </extent>
+               <publicationStmt>
+                  <publisher>by J.F.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Headpiece; initial letter.</note>
+                  <note>Imperfect: lacks all after p. 16; pages stained with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Religion and politics --  England --  Early works to 1800.</term>
+               <term type="topical_term">Liberty --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180265:1"/>
+            <p>THE KEY OF TRUE POLICY.</p>
+            <p>OR, A FREE DISPUTE <hi>CONCERNING The Conservation of lately obtained</hi> LIBERTY.</p>
+            <p>In reference to the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> not onely for securing LIBERTY already obtained, but also for enlarging the same.</p>
+            <p>By a <hi>Scottish</hi> man, a cordiall well-wisher of the just Freedom, and true interest of the People.</p>
+            <q>
+               <bibl>Prov. 21, v. 3.</bibl>
+               <p>
+                  <hi>To do justice and judgement, is more acceptable then sacrifice.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Prov. 25. v. 5.</bibl>
+               <p>
+                  <hi>Take away the wicked from before the King, and his throne shall be established in righteousnesse.</hi>
+               </p>
+            </q>
+            <p>Printed at <hi>London</hi> by <hi>J. P.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:180265:2"/>
+            <pb n="3" facs="tcp:180265:2"/>
+            <head>A FREE DISPUTE, <hi>Concerning the Conservation of lately obtained</hi> Liberty.</head>
+            <div type="proem">
+               <head>PROEME.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Here be two Rocks on which ordinarily Ship<g ref="char:EOLhyphen"/>wrack is made, <hi>viz.</hi> Tyranny, and Preposterous Lenity: The one is <hi>Scylla,</hi> and the other <hi>Charyb<g ref="char:EOLhyphen"/>dis:</hi> And in my apprehension, both of them are to be avoided. To which, we may adde a Third, on which some, though seldome, do split, <hi>viz.</hi> Preposterous Zeal. Howsoever, the Questi<g ref="char:EOLhyphen"/>on in Policy ariseth,</p>
+               <p>
+                  <hi>What way is lately obtained Liberty best preserved?</hi>
+               </p>
+               <p>Truly, this is a most grave Politicall Question, and it may justly be called, the Key of all Policy. Any body who will study it arightly, must avoid three things, <hi>viz.</hi> Tyranny, Preposterous Zeal, and Prepo<g ref="char:EOLhyphen"/>sterous Lenity. It is manifest from the example of <hi>Rehoboam,</hi> 1 <hi>King.</hi> 12. 2. <hi>Ch.</hi> 10. Tyranny destroyeth purchased Liberty. Hence is it we read in <hi>Berosus, Herodot, Xenophen, Diodore,</hi> &amp;c. many have been shaken loose of Liberty, because of Tyranny. <hi>Aristotle lib.</hi> 5. <hi>Pol.</hi> sheweth us many examples to this purpose. Very <hi>Machiavel</hi> ap<g ref="char:EOLhyphen"/>plaudeth this, <hi>Disp. lib.</hi> 1. <hi>c.</hi> 10. Likewise Preposterous Zeal is an e<g ref="char:EOLhyphen"/>nemy to it: It cryeth for fire, where Christ calleth for none, it over-turneth the Law of Nature and Nations: for it is without any sha<g ref="char:EOLhyphen"/>dow of Legality, and therefore cannot but irritat the hearts of Peo<g ref="char:EOLhyphen"/>ple against those who exercise it, to pluck all Power and Libarty out of their hands. <hi>Dracons</hi> Lawes did run much this way, which pro<g ref="char:EOLhyphen"/>voked
+<pb n="4" facs="tcp:180265:3"/>
+                  <hi>Solon</hi> to alter them, and reduce them into moderation. And let me tell you, of the three, Preposterous Lenity is the greatest cut-throat of obtained Liberty. We need no more to prove this, but the example of <hi>Ahab,</hi> 1. <hi>King.</hi> 20. <hi>&amp; ult.</hi> 2. <hi>Ch.</hi> 18. His Preposterous Le<g ref="char:EOLhyphen"/>nity begate his ruine and destruction, and denuded him of Power and Liberty. This wanteth not sanctified reason on its side, referring this to the People of God. It is without all controversie, it highly provoketh the Lord, while-as his People spare those who are ap<g ref="char:EOLhyphen"/>pointed for destruction: for he willeth and commandeth all those who will not have him to reigne over them, to be brought forth and slain. <hi>Sauls</hi> preposterous Lenity begot his ruine, and the rent<g ref="char:EOLhyphen"/>ing of the Kingdom from him, 1. <hi>Sam.</hi> 15. Naturall reason confirm<g ref="char:EOLhyphen"/>eth this. What I pray thee, is Preposterous Lenity, but a keeping the Theef within doors, to cut the throat, and a Viper in the bosome, to sting to death? Verily, there is nothing more killing and consuming, then Malignant enmity. How then can it be indulged with Liber<g ref="char:EOLhyphen"/>ty? I believe, the Fomenters of such are cut-throats and vipers. <hi>Machiavel</hi> can tell you the safest way of securing Liberty, is severi<g ref="char:EOLhyphen"/>ty, and not clemency, <hi>Disp. lib.</hi> 1. <hi>cap.</hi> 7. <hi>lib.</hi> 3. <hi>c.</hi> 3. <hi>&amp;</hi> 4. He illustrateth this by severall pregnant examples, which I need not repeat. But I shut up this point in one Scripture-word, <hi>Let favour be shewed to the wicked, (yet) will he not learn righteousnesse: in the land of up<g ref="char:EOLhyphen"/>rightnesse will he deal unjustly, and will not behold the Majesty of the Lord, Is.</hi> 26. v. 10. Would the Holy Ghost say, It is all lost kind<g ref="char:EOLhyphen"/>nesse that is shewed to the wicked: He will never amend a whit therefore, but still do wickedly. To what purpose then should such be indulged?</p>
+               <p>As negatively, so positively we lay down the way (according to what our apprehension reacheth to, of securing lately purchased Liberty. And therefore we lay down this which followeth, as an un<g ref="char:EOLhyphen"/>doubted Position and Maxime in Policy.</p>
+               <p>
+                  <hi>The high and rode way of securing obtained Liberty, is to exe<g ref="char:EOLhyphen"/>cute Justice to the utmost.</hi>
+               </p>
+               <p>Thus we plead the rigour of Justice to be the safe and only way of preserving Liberty. You must give me leave to say, the rigour of Ju<g ref="char:EOLhyphen"/>stice, is greatest Justice, and not Tyranny, as is alledged. It is vain
+<pb n="5" facs="tcp:180265:3"/> Philosophy to say, The rigour of Justice, is not Justice, so well as the lowest act thereof: for, <hi>magis &amp; minus non variant speciem.</hi> I shall not need to speak of those Precepts, <hi>Aristotle lib.</hi> 5. <hi>Pol.</hi> set<g ref="char:EOLhyphen"/>teth down, for securing the Liberties of a Nation; for this is the very quintessence of all Politicall Observations to that purpose. We hasten to prove the point.</p>
+               <p>
+                  <hi>Argum.</hi> 1. The Lord commanded the people of the <hi>Jewes,</hi> to root out, and utterly destroy the <hi>Canaanites,</hi> as the best way of securing their Peace and Liberty, <hi>Exod.</hi> 23. v. 32. chap. 34. v. 12. <hi>Deut.</hi> 7. v. 3, 4, and 5. And because they did not so, therefore they became as <hi>thorns in their sides, and pricks in their eyes, Josh.</hi> 23. v. 13. <hi>Judges</hi> 2. v. 1, 2, 3. <hi>Psal.</hi> 106. v. 34, 35, <hi>&amp;c. David</hi> for securing his Liberties, tortured and utterly destroyed the <hi>Ammonites,</hi> 2. <hi>Sam.</hi> 12. 1. <hi>Chron.</hi> 20. And upon the same accompt did <hi>Amaziah</hi> execute the rigour upon the <hi>Edomites,</hi> 2. <hi>King.</hi> 14. 2. <hi>Chron.</hi> 25. for having revolted formerly under <hi>Jehoram,</hi> he executed the rigour against them, upon their second revolt, to prevent their future rebelling. I believe, <hi>these things are written for our edification,</hi> 1. <hi>Cor.</hi> 10. And, let me tell you, the People of God, to day have much more reason to maintain their Liberties inviolable, then had the <hi>Jewes.</hi> To day our Lord is about to manifest himself more eminently, in promo<g ref="char:EOLhyphen"/>ting their Priviledges, then in advancing his peoples Liberties, any time before. This is clearly demonstrated by us elswhere, and there<g ref="char:EOLhyphen"/>fore shall not need to repeat any thing of it here.</p>
+               <p>
+                  <hi>Argument</hi> 2. <hi>David</hi> resolved to execute the rigour of justice, without respect of persons, against Delinquents. <hi>I will early destroy all the wicked of the land, that I may cut off all wicked doers, from the city of the Lord. Psal.</hi> 101. 8. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>All the wor<g ref="char:EOLhyphen"/>kers of iniquity. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> All the wicked of the land.</hi> This insinuateth his impartiality, in executing justice; and truely he can<g ref="char:EOLhyphen"/>not but be called a strict Justiciar, who without all respect of per<g ref="char:EOLhyphen"/>sons, executeth judgement on all Delinquents. Nay, but these words, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> signifies, to exterminate and out-root. I be<g ref="char:EOLhyphen"/>lieve this is the outmost of justice: His diligence in this, is abun<g ref="char:EOLhyphen"/>dantly out-pointed, in that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which may be either transla<g ref="char:EOLhyphen"/>ted <hi>early,</hi> or <hi>in the mornings,</hi> or <hi>day by day:</hi> And it signifieth no less then <hi>Davids</hi> resolution, to root-out all Delinquents, early in the
+<pb n="6" facs="tcp:180265:4"/> mornings of every day. Which abundantly intimateth to us his reso<g ref="char:EOLhyphen"/>lution, of letting no opportunity passe him of rooting out the wick<g ref="char:EOLhyphen"/>ed and ungodly. Now the end of all this justice is, to secure both Church, and Common-Wealth, The one is signified by <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>the land,</hi> and the other by <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>the city of the Lord.</hi> Thus we finde <hi>David,</hi> resolving upon the rigour of justice, most diligent<g ref="char:EOLhyphen"/>ly and most impartially, to be executed against Delinquents, for securing both Church, and Common-wealth: And what he resol<g ref="char:EOLhyphen"/>ved to do, he also performed, 2 <hi>Sam.</hi> 8. v. 15. 1. <hi>Chron.</hi> 18. v. 14. Truely it is not for nought the Holy Ghost in both places, saith, <hi>He did execute judgement and justice unto all his people.</hi> Indeed it mak<g ref="char:EOLhyphen"/>eth out what is already said: but it remaineth to be asked, what sort of wicked doers doth <hi>David</hi> understand? Questionlesse his re<g ref="char:EOLhyphen"/>solution admitteth a restriction: Otherwise he should have left none in the land but the Godly; But it is without controversie, he left many thousand godlesse persons in the land: And had he done o<g ref="char:EOLhyphen"/>therwise, me thinketh he had acted from a principle of preposte<g ref="char:EOLhyphen"/>rous zeal, and not of justice. For clearing this, we lay down these Assertions.</p>
+            </div>
+            <div n="1" type="assertion">
+               <head>
+                  <hi>Assert.</hi> 1. <hi>Wickednesse, as wickednesse, is not the object of Magistraticall justice.</hi>
+               </head>
+               <p>There is very good reason for this, otherwise every sin and errour ought to be tabled before the Magistrate. O<hi>!</hi> what confusions, heart-burnings, and jealousies should ensue thereupon? Yea, if the foresaid reduplication held good in its whole latitude, in the person of the Magistrate, then heart-wickednesse were the object of his ju<g ref="char:EOLhyphen"/>stice. But I suppose, none will say so.</p>
+            </div>
+            <div n="2" type="assertion">
+               <head>Assert. 2. <hi>Wickednesse void of sedition, and being tollerated, doth not disturb the peace of Church and Common-wealth, is not the object of Magistraticall justice.</hi>
+               </head>
+               <p>This wanteth not good reason for it. I believe, none will say, <hi>David,</hi> or any other Magistrate did root out, and cut off all sorts of wicked persons. The contrary of this is more then manifest, both
+<pb n="7" facs="tcp:180265:4"/> of old, and of late. And what reason is it, I pray you, why the Magistrate should proceed against him as a Delinquent, who, though he doth wickedly, yet notwithstanding, acteth nothing to the rent<g ref="char:EOLhyphen"/>ing of the Common-wealth? For the Magistrate hath no more in Commission, but to proceed against legall, and not personall faults. Otherwise, his power should reach wickednes in its whole latitude, contrary to what is said already. But as the Magistrate is a publick person, so it is unsuitable to him to meddle with private wickednes: and as he is a Magistrate, being onely the Minister of the Common-wealth, he goeth beyond his sphere, whileas he proceedeth against personall faults, which do not encroach upon the Liberties of the Republick.</p>
+            </div>
+            <div n="3" type="assertion">
+               <head>Assert. 3. <hi>The Magistrate directly and positively, cannot proceed against wickednesse though seditious, as wickednesse, but as factious, running the high way of renting the Common-Wealth.</hi>
+               </head>
+               <p>The reason of this is, because wickednesse, as wickednesse, is morall: But the power of the Magistrate, as Magistrate, is Poli<g ref="char:EOLhyphen"/>ticall. And consequently the proper and direct object thereof, is Legall and Politicall<hi>:</hi> for <hi>objectum proprium, est proportionatum suae facultati.</hi>
+               </p>
+            </div>
+            <div n="4" type="assertion">
+               <head>Assert. 4. <hi>The Magistrates power, not onely reacheth the di<g ref="char:EOLhyphen"/>sturbers of the Common-wealth, but also of the Church.</hi>
+               </head>
+               <p>This is made good under a two fold notion. 1. Indirectly, and consequntively, and that two wayes: Firstly, in so far as pro<g ref="char:EOLhyphen"/>ceeding against the disturbers of the Common-wealth doth re<g ref="char:EOLhyphen"/>move the disturbers of the Church,. This is couched in the Text. Would the Psalmist say, I shall destroy all the disturbers of the Common-wealth, that the Church may catch advantage by it, and be freed from the disturbers of her peace. Secondly, in so far as the disturbance of the one, is the disturbance of the other; for they are so linked together, as the one is subordinate and subservient to the other, as is clear from the Coherence, between the former and
+<pb n="8" facs="tcp:180265:5"/> latter part of the Text. Upon which accompt, the Magistrate is <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ed Zion's Nurse-father, <hi>Isa,</hi> 49. <hi>v.</hi> 23. Hence it is the Com<g ref="char:EOLhyphen"/>mon-wealth amongst the people of the <hi>Jews,</hi> being a rightly ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ged, it begot the peace and enlargement of the Church. And we still find in Scripture, that the peace and disturbance of the one, were the peace and disturbance of the other. 2. Coactively, and vindicatively: Thus the Magistrate may proceed directly and posi<g ref="char:EOLhyphen"/>tively, against the disturbers of the Church: For it is incumb<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt and pertinent to him, to maintain, and vindicate the Liberties of the Church; as they are its Liberties: For he beareth the <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d upon the same accompt, <hi>Rom.</hi> 13, 2, 3, 4, 5. This I take to be the simple, and genuine meaning of the Text: And indeed it is not onely most agreeable to the Originall Text, but also to <hi>Davids</hi>
+                  <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>David reigned over all Israel, and David executed judgement, and justice unto all his people,</hi> 2 <hi>Sam.</hi> 8. 15. 1 <hi>Chron.</hi> 18. 14. This, in both places, is immediatly subjoyned to <hi>Davids</hi> subduing and trea<g ref="char:EOLhyphen"/>ding under many of his enemies, who disturbed both Church, and Common-wealth: And afterward followeth the history of the ri<g ref="char:EOLhyphen"/>gour which he executed against many others of his enemies. Which abundantly evidenceth; The Psalmist onely speaketh of the destru<g ref="char:EOLhyphen"/>ction of such who disturbs the peace of Church &amp; Common-wealth, or one way, or other, are noysome and unprofitable members. Which is agreeable to that, <hi>Whosoever will not do the law of thy God, and the law of the King, let judgement be executed speedily upon him, whether it be unto death, or to banishment, or to confiscation of goods, or to imprisonment, Ezr.</hi> 7. 26. What is this, I pray you, but a command to execute justice against Rebels, to the Law of Church and State, and to proceed against them according to their guiltinesse? And to this <hi>Ezra</hi> applaudeth, v. 27, 28. Which (no question) was not spoken without Divine impulsion, though a Hea<g ref="char:EOLhyphen"/>then King did speak it. What? Did not <hi>Balaam, Cyrus, Nebu<g ref="char:EOLhyphen"/>hadnezar,</hi> and others of an Heathenish stamp, speak now and then by vertue of Divine impulsion. Of such kinde of wicked doers, who disturb and overburden Church and State, <hi>Solomon</hi> speaketh while as he saith, <hi>A King that sitteth in the throne of judgement, scatter<g ref="char:EOLhyphen"/>eth away all evill with his eyes, Pro.</hi> 20. 8. <hi>A wise King scattereth the wicked, and bringeth the wheel over them,</hi> ibid. v 26. <hi>Cast out</hi>
+                  <pb n="9" facs="tcp:180265:5"/>
+                  <hi>the scorner, and contention shall go out, yea, strife and <gap reason="illegible: blotted" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> shall cease, Prov.</hi> 22. 10. I shall not need to enlarge this fur<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, but I on<g ref="char:EOLhyphen"/>ly adde the impartiall and severe proceedings of the <hi>At<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>an, Lace<g ref="char:EOLhyphen"/>demonian, Cretian, Carthaginian,</hi> and of other Common-wealths (at which I have hinted elsewhere) against Delinquents, do speak much for our purpose. And it is the very positive judgement of <hi>Machiavell, Desp. lib.</hi> 1. <hi>c.</hi> 7. <hi>lib.</hi> 3. <hi>c.</hi> 3. <hi>&amp;</hi> 4. amongst many o<g ref="char:EOLhyphen"/>ther Politicians, who are not afraid to say, <hi>Abseindantur, qui nos perturbant.</hi> And let me tell you, that maxime arightly understood (according to what is above said) is a more saving, and securing precept, then a<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y I read of in <hi>Plato, Aristotle, Plutarch,</hi> or any other Politician beside. Verily, it is the Center on which all other Politicall precepts, set apart for securing the Common-wealth, do resolve: It is the Cro<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k on which they hing the Key, whereby they are opened, and shut, and the Wheel whereby they are moved.</p>
+               <p>
+                  <hi>Argum.</hi> 3. The point is very suitable to reason it self. Who can deny but the danger the Peoples liberty standeth in, is at the hands of the Enemy, and of such who go about to overburden and destroy it? And it is an old maxime in Philosophy, <hi>Sublata causa tollitur effectus.</hi> And consequently such unprofitable and noysome mem<g ref="char:EOLhyphen"/>bers being put aside, one way, or other, it removeth the none-secu<g ref="char:EOLhyphen"/>rity and danger obtained Liberty is exposed to. Will you tell me, is he not a desperate and unskilfull Physician, who will take it on him to cure the body, and not remove the cause of the disease? That ve<g ref="char:EOLhyphen"/>rily is to build without a foundation. O! What madnesse is it, to go about to secure purchased Liberty; and not remove the cause of its non-security? Truly it is so much, as to keep fire in the bosome, and not to be burnt; to touch pitch, and not be defiled; to keep the thief in the house, and the throat not to be cut; and to keep a viper in the bosome, and not bestinged. O<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, shall Liberty be pre<g ref="char:EOLhyphen"/>served so long as its enemies are free? No verily, They will be still conspiring, and taking crafty counsell against it. So long as the son of <hi>Jesse</hi> liveth, they will never think themselves secure, and that their Kingdom shall be established: And therefore, <hi>Saul</hi> like, they will still fall a-persecuting <hi>David.</hi> Nay, let me tell you, those be<g ref="char:EOLhyphen"/>come accessory to their own hurt and ruine, who would not destroy the destroyers of their Liberties. Thus they become negative cut-throats,
+<pb n="10" facs="tcp:180265:6"/> and burrios to themselves. But to prevent bondage and slavery, it is good, it is good, to root out those who go about to de<g ref="char:EOLhyphen"/>stroy our Liberty; Otherwise, we abuse the power God and Nature have conferred on us, to maintain and defend our own Liberties against our Adversaries.</p>
+            </div>
+            <div type="corollary">
+               <head>COROLLARY.</head>
+               <p>HEre from the People of God in <hi>Brittain,</hi> may perceive what they have to do with the Enemies of their Liberty, and how to secure it. And for my self, I desire to, and will offer my judge<g ref="char:EOLhyphen"/>ment freely in the matter. Now, according to my light, through the strength of my Lord, I do fully and freely offer my judgment in these particulars. First, All Malignant and formall Presbyterian Incendiaries, should one way or other, be rooted out, if we minde to maintain our own Liberties inviolable. This is evident from what already is said: for they are the very Enemies, by whom the Lords People in the three Nations onely, stand in hazard. They indeed, are the <hi>Canaanites,</hi> whom the Lord hath commissioned to destroy. They verily are the Inhabitants of the Land, and therefore must be rooted out. They are spoiled of their Kingdom: And therefore, (according to what <hi>Machiavel</hi> saith in <hi>thesi, lib.</hi> 3. <hi>c</hi> 4. though not in <hi>hypothesi,</hi> and according to his application) must be cut off. They are Boars robbed of their Whelps, and therefore they will never be satisfied till they be destroyed<hi>:</hi> They are <hi>Amalek</hi> indeed, they lay in wait, while as the Lotds People in <hi>Brittain,</hi> came out of the spiri<g ref="char:EOLhyphen"/>tuall <hi>Egypt,</hi> from under the Episcopall and Malignant yoke. And therefore their Name deserveth to be razed from under Heaven. Secondly, Albeit all such should be rooted out and destroyed, yet not one and the same way. They should be dealt with according to their guilt. Some of them who are Prime Incendiaries, and leading men, should be finally cut off: Others again of them, who are not so deep in the guilt, deserve not Physically, but Politically to be cut off. <hi>i. e.</hi> (as <hi>Artaxerxes</hi> saith, <hi>Ezra</hi> 7. v. 26.) either by banishment, or imprisonment, or confiscation of goods, according to their desert. They indeed, have rebelled against the Law, both of GOD and
+<pb n="11" facs="tcp:180265:6"/> man. Why should they not then be punished accordingly? And let me tell you, it is great injustice to punish them all alike. The Law of GOD, Nature, and Nations, require proportionability, between the fault and the punishment. Now I come to meet with Objecti<g ref="char:EOLhyphen"/>ons, both from good and bad.</p>
+               <p>
+                  <hi>Object.</hi> 1. There was an expresse command (saith the Theo<g ref="char:EOLhyphen"/>logue) for the out-rooting of the <hi>Canaanites</hi> and <hi>Amalekites:</hi> But there is no such command for the destruction of the Malignant and Presbyterian formalist.</p>
+               <p>
+                  <hi>Ans.</hi> I demand, upon what accompt were such commanded to be cut off? Certainly, that command doth not want a ground: It is blasphemy to alledge, that any of Gods commands are groundless and unreasonable. Now, the grounds whereupon the <hi>Canaanites</hi> were commanded to be cut off, be these. First, to prevent the en<g ref="char:EOLhyphen"/>snaring of the <hi>Jewes</hi> by their devices, <hi>Deut.</hi> 7. v. 4. And secondly, be<g ref="char:EOLhyphen"/>cause the <hi>Jewes</hi> were a holy and peculiar people, sequestred for the worship of God, <hi>ibid.</hi> v. 6. Likewise the Lord commanded to root out the <hi>Amalekites,</hi> because they laid wait for <hi>Israel,</hi> in the way when he came up out of <hi>Egypt,</hi> 1. <hi>Sam.</hi> 15. v. 2, 3. Hence I argue thus, by an Argument reduced into form:</p>
+               <p>Those against whom the grounds of the command do militate, the command it self doth reach:</p>
+               <p>But, the grounds of the command for out-rooting the <hi>Canaanites</hi> and <hi>Amalekites,</hi> do militate against Malignants and Presbyterian-formalists:</p>
+               <p>
+                  <hi>Ergo</hi> the command it self doth reach them.</p>
+               <p>The Proposition is manifest, because the command it self no o<g ref="char:EOLhyphen"/>therwise hath strength, but according to the grounds of it: For, if it did binde without reason, then should it binde unreasonably: And so, <hi>de jure,</hi> be invalide and non-obliging. It must needs therefore be said, Wheresoever the reason of the command reacheth, there the command it self reacheth also. The Assumption is manifest also. Should not care be had to day, people be not mis-led by Malignant devices? And I believe, there is no demonstration for it, why people to day may not be mis-led by such as the <hi>Jewes</hi> were, by the devices of the <hi>Canaanites:</hi> It is known, all are most apt to Malignancy. And it is great presumption to aliedge, people to day are not so apt to be
+<pb n="12" facs="tcp:180265:7"/> mis-led by evill example, as were the <hi>Jewes.</hi> There is no perfection now more then before, Yea, who will deny, but the People of God to day, are a holy and peculiar People, in a speciall way sequestred for his service and worship? And, beside that, the Malignant Party come out against the Lords People, so soon as they came up out of spiritual <hi>Egypt, i. e.</hi> from under the Antichristian and prelaticall yoke. Like<g ref="char:EOLhyphen"/>wise the formall Presbyterian came out against the Lords People, so soon as they had shaken off the Malignant yoke in all the 3. Nations. They no sooner came up from that <hi>Egypt,</hi> but assoon the Presbyterian formalist, drew out both good and bad in this Nation against them.</p>
+               <p>
+                  <hi>Inst.</hi> 1. Gods positive and expresse command doth binde, though no reason were added. His command is most to be heeded to: therfore the out-rooting of the <hi>Canaanites</hi> and <hi>Amalekites,</hi> onely dependeth from the command, and the reasons are onely added by the way, for clearing the Command it self.</p>
+               <p>
+                  <hi>Ans.</hi> Rake all Hell thorow, and a more dangerous evasion shall not be found. Well, I demand, whether or not the Lord doth com<g ref="char:EOLhyphen"/>mand any thing upon reason, or without it? If upon reason, <hi>Ergo,</hi> not onely his commands, but also the reasons of them are to be heed<g ref="char:EOLhyphen"/>ed to, and that upon the like accompt: for so they are necessarily joy<g ref="char:EOLhyphen"/>ned, and the one hath not strength without the other, unlesse you will say, Gods comands are unreasonable. If without reason, <hi>Ergo,</hi> Gods commands are unreasonable and groundlesse; which is repug<g ref="char:EOLhyphen"/>nant to his infinite perfection: Whereupon in-starteth the Question, whether or not be these reasons above named, sufficient grounds of out-rooting the <hi>Canaanites</hi> and <hi>Amalekites?</hi> If sufficient, I gain the point. If not sufficient, in vain are they alledged for extirpat<g ref="char:EOLhyphen"/>ing them. And whosoever will arightly consider the connexion be<g ref="char:EOLhyphen"/>tween the fore-said command, and the grounds thereof, will finde anon, the command is no otherwise pressed, but upon the accompt and strength of its ground. O! what absurdity is it to say, it was not a sufficient reason of out-rooting the <hi>Amalekites,</hi> because of their out-coming against the People of God, when they came up from <hi>Egypt?</hi> and to say, <hi>Moses</hi> doth not alleadge sufficient reasons of out-rooting the <hi>Canaanites</hi> in the place above-cited? Verily, that is a belying the Holy Ghost, who presseth such commands up<g ref="char:EOLhyphen"/>on such grounds. And let me tell you (which is very unbeseeming
+<pb facs="tcp:180265:7"/> the Holy Ghost) it is a base and naughty thing to presse a point up<g ref="char:EOLhyphen"/>on weak and unsufficient grounds, where better and more sufficient may be had. Su<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ely, where he best are concealed, the rest may be con<g ref="char:EOLhyphen"/>cealed also. Y<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t in the <hi>interim,</hi> I demand, whether or not these rea<g ref="char:EOLhyphen"/>sons do binde <hi>perse,</hi> by vertue of themselves; or <hi>per accidens,</hi> by vertue of other more convincing grounds? If the former, then it can not be denied, but they are sufficient grounds of the command: for, so they are the very substantiall positive, and proper grounds of the command, on which, the whole strength of it resolveth. And let it be so, the equity and <hi>jus</hi> of the command, doth not depend from these reasons, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, yet that doth not take away the necessary and substantiall connexion, that is be<g ref="char:EOLhyphen"/>tween them and the command it self, the equity of it depending from them <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. By vertue of which, they are essentially one, with all the rest of its grounds, if there be any other<hi>:</hi> And so they conclude no lesse convincingly, then if all the rest were added: for so the very substantial frame of all the rest, on which the commands equity and <hi>jus</hi> resolveth, is comprised in them, they being in such a case, all one <hi>intensivè,</hi> though not <hi>extensivè.</hi> If the latter, O<hi>!</hi> what impertinency is argued in the Holy Ghost, to alledge such grounds for clearing and enforcing a purpose, and in the mean time leaves out those things, from which their clearnesse and strength depend? Verily, that is, <hi>processus ab obscure ad obscurius,</hi> or <hi>ab ignoto ad ig<g ref="char:EOLhyphen"/>notius.</hi> But I believe, the Holy Ghosts Logick is not sophistick.</p>
+               <p>
+                  <hi>Inst.</hi> 2. If you argue so, I see no reason (one will say) why the dearest of Gods Saints may not be cut off. Did not they come out a<g ref="char:EOLhyphen"/>gainst their Brethren?</p>
+               <p>
+                  <hi>Ans.</hi> I confesse they did so, yet have they fallen, as <hi>Benjamin.</hi> And now it is left to <hi>Israel</hi> to pity and provide for them, they must not destroy them with <hi>Amalek,</hi> but refist them, as <hi>Benjamin.</hi> They did not come out against <hi>Israel,</hi> because he was come up from <hi>Egypt,</hi> but because he would have had the sons of <hi>Belial</hi> from amongst them. They did not come out against their Brethren, through Ma<g ref="char:EOLhyphen"/>lignancy, as <hi>Amalek,</hi> but through infirmoty, as <hi>Benjamin</hi> came out against <hi>Israel.</hi> They are not <hi>Canaanitish,</hi> but a holy people, so well as their Brethren, and such as care should be had of, they do not en<g ref="char:EOLhyphen"/>snare themselves by the evill of Malignants. Away, they should not
+<pb facs="tcp:180265:8"/> be both served alike: It is enough to rebuke <hi>Aaron,</hi> though fallen in<g ref="char:EOLhyphen"/>to Idolatry, while-as others be thrust thorow. And yet, if they will still despise their own mercies, and disturb their Brethrens peace, it is lawfull for <hi>Israel</hi> to cut down <hi>Benjamin,</hi> and make them, nill they will they, to twin with the sons of <hi>Belial.</hi>
+               </p>
+               <p>
+                  <hi>Inst.</hi> 3. It cannot stand with Justice to cut off all Malignants and Presbyterian-formalists, for all of them are not alike guilty. But the command of the Lord did strike directly against all <hi>Canaanites</hi> and <hi>Amalekites,</hi> without exception.</p>
+               <p>
+                  <hi>Ans.</hi> The <hi>Canaanites</hi> and <hi>Amalekites,</hi> beside their Malignancy, were Heathenish and Idolatrous, which rendred them so much the more guilty; Idolatry, by the Law of God, being a Capitall sin; And so all of them being both Malignant and Idolatrous, they all deser<g ref="char:EOLhyphen"/>ved off-cutting by death. Now, <hi>caeteris paribus,</hi> Malignants and Pres<g ref="char:EOLhyphen"/>byterian-formalists deserve no lesse then they did: And therefore, as the one were commanded to be put aside, for acting against the Lords People, and preventing hazard at their hands, so should the other be removed also, upon the same accompt, though in a diffe<g ref="char:EOLhyphen"/>rent way, according to their guiltinesse. Observe therefore the Lord in commanding the utter destruction of the <hi>Canaanites</hi> and <hi>Ama<g ref="char:EOLhyphen"/>lekites,</hi> not onely looketh to their Malignancy, but also to their Ido<g ref="char:EOLhyphen"/>larry, though he mainly and expressely eyeth their Malignancy and enmity at the Lords people. So you may learn by comparing the command, anent the ruine of the <hi>Canaanites,</hi> with its first reason, and the command for rooting out both <hi>Canaanites</hi> and <hi>Amalekites,</hi> with the Law against Idolatry. Therefore this is a Sophisme, <hi>à sim<g ref="char:EOLhyphen"/>pliciter, ad secundum quid.</hi> For, nothing more can be proved from these examples, but an off-cutting of Malignants, <hi>caeteris paribus,</hi> and not <hi>simpliciter.</hi> And so, some of them are to be cut off, Physically, by death, and others of them, Politically, either by banishment, impri<g ref="char:EOLhyphen"/>sonment, or sequestration of goods, according to the degrees of their delinquency. And thus, one way or other, they are rooted out, and the Peace of the Lords people secured.</p>
+               <p>
+                  <hi>Object.</hi> 2. O<hi>!</hi> but (saith the sweet milde gracious body) Christ was milde like a Lamb, why should not we be so to? He forgave his enemies, why should not we forgive ours also? we are comman<g ref="char:EOLhyphen"/>ded to keep peace with all men.</p>
+               <pb n="15" facs="tcp:180265:8"/>
+               <p>
+                  <hi>Ans.</hi> O! but Christ was just to: Though he came riding meek as a Lamb, yet did the zeal of his Fathers House, cause him drive the buyers and sellers to the door: His <hi>mercy and justice kisse one aeno<g ref="char:EOLhyphen"/>ther, Psal.</hi> 85. v. 10. And, as he did <hi>forgive his enemies,</hi> so did he <hi>de<g ref="char:EOLhyphen"/>stroy them, Is.</hi> 63. We should indeed forgive our own private ene<g ref="char:EOLhyphen"/>mies, and that according both to Christs practice and precept. But publick enemies, I believe, should be taken order with, unlesse ye wil raze justice. And will ye tell me, Is the execution of Justice uncon<g ref="char:EOLhyphen"/>subsistent with the observation of Peace. I suppose, it is that whereby Peace is confirmed: For, by it, the Enemies and disturbers of Peace, are removed.</p>
+               <p>
+                  <hi>Object.</hi> 3. Nay, but (quoth the crafty Politician) we may make use of Malignants, as Instruments. We may make use of their help, and take all the good of them we can.</p>
+               <p>
+                  <hi>Ans.</hi> This can neither stand with sound Divinity, nor with true Policy. The <hi>Jewes</hi> refused the help of their Adversaries in building the Temple, <hi>Ezr.</hi> 4. From this, we argue thus:</p>
+               <p>
+                  <hi>If the people of the Jews refused the service of their enemies, and did not admit them so much as instruments in building an earthly Temple, much more the people of God to day, should decline the service of their enemies, and not admit them so much as instruments in buil<g ref="char:EOLhyphen"/>ding the work of God in hand:</hi>
+               </p>
+               <p>
+                  <hi>But the people of the Jews refused the service of their enemies, and did not admit them so much as instruments in building an earthly Temple. Ergo, &amp;c.</hi>
+               </p>
+               <p>The Proposition holdeth good a <hi>minori ad majus:</hi> And that ac<g ref="char:EOLhyphen"/>cording to the excellency of the work, the <hi>Jews</hi> had, and we have in hand to day. Sure I am, the work the Lords People are a-building, is far more eminent then the earthly Temple of the <hi>Jews:</hi> The one is the shadow, and the other the substance. Verily I think Malig<g ref="char:EOLhyphen"/>nants black hands should not be put upon such a fair Work: Their fingers are too foul to touch it. If you say, the Jews refused the ser<g ref="char:EOLhyphen"/>vice of their Adversaries, because of their heart-enmity to the work, then let any rationall man judge, if the People of God to day, have not reason, upon the same accompt to decline the service of their enemies. Is any so mad, as to imagine, Malignants do upon any o<g ref="char:EOLhyphen"/>ther score, offer their service to the Lords People, but peece by peece
+<pb n="16" facs="tcp:180265:9"/> to thrust themselves into power, and not onely to obstruct the work, in the hands of the Lords People, but also to thrust them from all places of trust? And truely their fair profession and pretence must not be heeded to, any more then did the <hi>Jews</hi> give ear to the smooth<g ref="char:EOLhyphen"/>ed profession of their enemies, <hi>Ezra.</hi> 4.12. Yea, I suppose, no solide head will alledge, the <hi>Jews</hi> declined the service of their enemies, be<g ref="char:EOLhyphen"/>cause they were strangers: For the <hi>Nethinims</hi> were such, <hi>Ezra.</hi> 2. 43. <hi>Neh.</hi> 10.28. compared with <hi>Josh.</hi> 9.23. and yet were not keep<g ref="char:EOLhyphen"/>ed back from imployment amongst the <hi>Jews.</hi> What? Were not the <hi>Jewish</hi> Proselites strangers? <hi>Num.</hi> 12. 1. <hi>Acts</hi> 2. 10. And did not <hi>Solomon</hi> admit strangers to build the Temple? 1 <hi>Kings.</hi> 5.18. 2 <hi>Chr.</hi> 2. 17, 18. And it is gatherable both from Scripture, and History, their adversaries were a mixed people, both of <hi>Jews</hi> and <hi>Gentiles,</hi> it must needs therefore be imagined, not their strangenesse, but heart-en<g ref="char:EOLhyphen"/>mity, to the Lords Cause, and People, did barre them from having hand in building the Temple. Aye, we must not imagine they were debarred from building, because they were wicked, seeing all were not saints, who builded the temple. It is without controversy, the great<g ref="char:EOLhyphen"/>est part of the builders was wicked. Yet in the mean time, I desire this may be observed, that there is a vast difference betwixt wicked as wic<g ref="char:EOLhyphen"/>ked men, &amp; wicked men as enemies. Men may be, and are wicked, &amp; yet notwithstanding, morally honest and peaceable, not disturbers of the peace, but apt, without any heart-enmity, to act in their place &amp; stations, to help and assist the people of God, in their undertakings, whether for the good of Church or Common-wealth. Such indeed were those of them who builded the Temple, and were not godly: But because of their peaceablenesse, and none-enmity to the Work, therefore were they admitted to build. And now to speak politick<g ref="char:EOLhyphen"/>ly, I do averre, it is against all true Policy, to countenance enemies, and make use of them. Upon what account, I pray you, do such offer their service unto you? Is it for any other purpose (notwith<g ref="char:EOLhyphen"/>standing all their fair Pretences) but to disturb your peace and un<g ref="char:EOLhyphen"/>dermine your purposes? As did the adversaries of the <hi>Jews,</hi> in offer<g ref="char:EOLhyphen"/>ing their help and concurrence to them. Truly I judge, such service is like the adder in the bush: It will not fail to sting before ye be a<g ref="char:EOLhyphen"/>ware. When ye admit it, ye receive fire into the bosome. I hold them noble Politicians, who make use of, and countenance all men, whether <gap reason="missing" extent="1+ pages">
+                     <desc>〈1+ pages missing〉</desc>
+                  </gap>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
